@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Baloo 2", sans-serif;
+  }
+  
+  /* Header start */
+  .custom_container {
+    width: 70rem;
+    background-color: transparent !important;
+    margin: auto;
+  }
+  .navbar {
+    background-color: transparent !important;
+  }
+  /* Header end */
+  
+
+  
+
+
+
+
+
+
+
+  /* Footer Sections */
+.gap-10 {
+    gap: 2rem;
+  }
+  .gap-2{
+    gap: 1rem;
+  }
+  
+  li{
+    list-style-type: none;
+  }
+  
+  li{
+    cursor: pointer;
+  }

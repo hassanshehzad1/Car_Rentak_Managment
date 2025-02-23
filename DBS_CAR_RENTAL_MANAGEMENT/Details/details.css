@@ -1,0 +1,265 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+2:wght@400..800&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Baloo 2", sans-serif;
+}
+
+
+/* Header start */
+.custom_container {
+  width: 70rem;
+  background-color: transparent !important;
+  margin: auto;
+}
+
+.navbar {
+  background-color: transparent !important;
+}
+
+/* Header end */
+
+/* Main start */
+.main {
+  color: white !important;
+  background-color: #08323d !important;
+  height: 80dvh;
+}
+
+/* None colors for css */
+.card {
+  background-color: transparent !important;
+  color: white;
+}
+
+.btn_color {
+  background-color: #d5fd05;
+  color: #08323d;
+}
+
+.width-30 {
+  width: 30rem;
+}
+
+.form_color {
+  background-color: #ffffff !important;
+  color: black;
+  width: 20rem;
+}
+
+.btn_form {
+  width: 100%;
+  background-color: #08323d;
+}
+
+img {
+  width: 100%;
+}
+
+.logo {
+  width: 5rem;
+}
+
+/* 30 rem */
+.img_30 {
+  border-radius: 20px;
+  width: 30%;
+
+  height: 30% !important;
+}
+
+.img_30 img {
+  border-radius: 30px;
+}
+
+/* Background color */
+.btn_color_car {
+  background-color: #08323d;
+  color: white;
+  width: 100%;
+}
+
+.btn_color_car:hover {
+  background-color: #242d30e1;
+}
+
+/* Icon color */
+.icon_color {
+  background-color: #08323d;
+}
+
+/* facts_section */
+.facts_section {
+  background-color: #08323d !important;
+  color: white;
+  padding: 4rem;
+}
+
+.facts_section h2 {
+  font-size: 2.3rem;
+}
+
+.facts_section p {
+  width: 55%;
+  font-size: 0.9rem;
+  font-weight: 100;
+  color: rgba(255, 255, 255, 0.683);
+  margin: auto;
+}
+
+.facts_section h2 {
+  text-align: center;
+}
+
+.bg_white {
+  background-color: white;
+  color: black;
+}
+
+.ic_image {
+  width: 23px;
+}
+
+.width-20 {
+  width: 20rem !important;
+}
+
+.width_10 {
+  width: 5rem !important;
+}
+
+/* Two divs */
+.head_3 {
+  width: 70%;
+  font-size: 2.6rem;
+  font-weight: bold;
+}
+
+/* search_section */
+.search_section {
+  background-color: #08323d !important;
+  color: white;
+  padding: 4rem;
+}
+
+.width-50 {
+  width: 50%;
+}
+
+.width-30 {
+  width: 30%;
+}
+
+.search {
+  width: 100%;
+}
+
+.search input {
+  width: 100%;
+  padding: 0.8rem 1rem;
+  font-size: 1rem;
+  color: black;
+  border-radius: 14px;
+  border: 2px solid black;
+}
+
+.search button {
+  padding: 0.5rem 1.5rem;
+  background-color: #d4fd056a;
+  color: white;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+}
+
+.gap {
+  gap: 1rem;
+}
+
+/* Footer Sections */
+.gap-10 {
+  gap: 2rem;
+}
+
+.gap-2 {
+  gap: 1rem;
+}
+
+li {
+  list-style-type: none;
+}
+
+li {
+  cursor: pointer;
+}
+
+img {
+  width: 100%;
+}
+
+/* Full */
+
+.back_gray {
+  background-color: rgba(211, 211, 211, 0.352);
+  border-radius: 12px;
+  margin-left: 1rem;
+  width: 12rem;
+}
+
+.row {}
+
+.w-40 {
+  width: 40%;
+}
+
+.w-60 {
+  width: 60%;
+}
+
+.img_25 {
+  width: 25rem;
+}
+
+.img_short_part {
+  width: 6rem;
+  cursor: pointer;
+
+}
+
+.bc-color {
+  background-color: #08323d;
+  color: white;
+  width: 60% !important;
+  margin-left: 6rem;
+  font-size: 1.5rem;
+}
+
+.bc-color:hover {
+
+  background-color: #d5fd05;
+
+}
+
+.bc_green {
+  background-color: #08323d;
+  border-radius: 50%;
+  padding: 10px;
+  color: white;
+  font-size: 1rem;
+}
+
+.left_width {
+  width: 70% !important;
+  background-color: transparent;
+}
+
+.ml {
+  margin-left: 1.5rem;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}

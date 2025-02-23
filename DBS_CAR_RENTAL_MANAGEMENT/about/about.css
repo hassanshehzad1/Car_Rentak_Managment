@@ -1,0 +1,151 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+2:wght@400..800&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Baloo 2", sans-serif;
+}
+
+/* Header start */
+.custom_container {
+  width: 70rem;
+  background-color: transparent !important;
+  margin: auto;
+}
+.navbar {
+  background-color: transparent !important;
+}
+/* Header end */
+
+/* Center head */
+.opacity-5 {
+  opacity: 0.5;
+}
+
+/* Footer Sections */
+.gap-10 {
+  gap: 2rem;
+}
+.gap-2 {
+  gap: 1rem;
+}
+
+li {
+  list-style-type: none;
+}
+
+li {
+  cursor: pointer;
+}
+img {
+  width: 100%;
+  display: block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btns_images {
+  width: 12rem;
+  margin-left: 6rem;
+}
+.btns_images img {
+  width: 100%;
+}
+.img-2 {
+  height: 20%;
+}
+.relative {
+  position: relative;
+}
+.absolute {
+  position: absolute;
+}
+.right_img {
+  width: 28rem !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.left {
+  width: 35rem;
+  float: right !important;
+}
+.verify i {
+  background-color: #08323d;
+  font-size: 1.2rem;
+  padding: 0.5rem;
+  border-radius: 50%;
+  color: white;
+}
+.col {
+  gap: 0.4rem;
+}
+
+/* search_section */
+.search_section {
+  background-color: #08323d !important;
+  color: white;
+  padding: 4rem;
+}
+.width-50 {
+  width: 50%;
+}
+.width-30 {
+  width: 30%;
+}
+.search {
+  width: 100%;
+}
+.search input {
+  width: 100%;
+  padding: 0.8rem 1rem;
+  font-size: 1rem;
+  color: black;
+  border-radius: 14px;
+  border: 2px solid black;
+}
+.search button {
+  padding: 0.5rem 1.5rem;
+  background-color: #d4fd056a;
+  color: white;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+}
+.gap {
+  gap: 1rem;
+}
+.logo img {
+  width: 100%;
+}
+.logo {
+  width: 5rem;
+}
+
+video {
+  width: 100%;
+  border-radius: 20px;
+  height: inherit;
+}
+.width-80 {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  height: 20% !important;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+
+.update {
+  position: absolute;
+  width: 14rem;
+  left: 0;
+}
+.update2 {
+  position: absolute;
+  width: 14rem;
+  left: 13.5rem;
+}
