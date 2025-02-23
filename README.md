@@ -1,4 +1,4 @@
-# Car_Rentak_Managment
+# Car_Rental_Managment
 
 <p>A PHP & MySQL-based Car Rental Management System that allows users to rent cars, manage bookings,  and process payments efficiently.</p>
 <h1> Features</h1>
